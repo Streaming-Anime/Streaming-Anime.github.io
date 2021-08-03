@@ -1,0 +1,440 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: white;
+}
+
+h5 {
+  color: white;
+}
+
+* {
+  margin: 0%;
+}
+
+div {
+  height: 1000px;
+}
+
+.button {
+  border: none;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1rem;
+  margin: 0;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 2rem;
+  background-color: red;
+  position: relative;
+}
+
+.button:active {
+  background-color: #b22222;
+}
+
+.button2 {
+  border: none;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1rem;
+  margin: 0;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 2rem;
+  background-color: #4b0082;
+  position: 10px 20px;
+}
+
+.button2:active {
+  background-color: #9932cc;
+}
+
+#jujutsu img {
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 150px;
+  left: 200px;
+}
+
+#mha img {
+  width: 200px;
+  height: 250px;
+
+  position: absolute;
+  top: 150px;
+  left: 420px;
+}
+
+#tjujutsu {
+  color: white;
+}
+
+#mha4 img {
+  width: 200px;
+  height: 250px;
+
+  position: absolute;
+  top: 150px;
+  left: 640px;
+}
+
+#tanime {
+  background-image: url(Img/bg2.png);
+  background-repeat: repeat-x;
+  width: 2000px;
+  height: 200px;
+}
+
+#canime {
+  color: white;
+}
+
+#DrSs1 img {
+  width: 200px;
+  height: 250px;
+
+  position: absolute;
+  top: 150px;
+  left: 860px;
+}
+
+#DrSs2 img {
+  width: 200px;
+  height: 250px;
+
+  position: absolute;
+  top: 150px;
+  left: 1080px;
+}
+
+.buttonp {
+  border: none;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1rem;
+  margin: 0;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 2rem;
+  background-color: #054d02;
+  position: 15px 20px;
+}
+
+.buttonj {
+  border: none;
+  padding: 0.5rem;
+  text-align: center;
+  font-size: 1rem;
+  margin: 0;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 1rem;
+  background-color: #8675b6;
+  position: 30px 20px;
+}
+.buttonj:active {
+  background-color: #9932cc;
+}
+
+.buttonjujutsu {
+  border: none;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1rem;
+  margin: 0;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 1rem;
+  background-color: #8675b6;
+  position: 30px 20px;
+}
+
+.buttonjujutsu:active {
+  background-color: #9932cc;
+}
+
+.buttonmha {
+  border: none;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1rem;
+  margin: 0;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 1rem;
+  background-color: #1f4708;
+  position: 30px 20px;
+}
+
+.buttonmha:active {
+  background-color: #63cc32;
+}
+
+.buttonm {
+  border: none;
+  padding: 0.5rem;
+  text-align: center;
+  font-size: 1rem;
+  margin: 0;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  background-color: #3a2121;
+  position: 30px 20px;
+}
+
+.buttonm:active {
+  background-color: #57a733;
+}
+
+#nav {
+  width: 10%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 200px;
+  left: 25px;
+}
+
+#menuS {
+  width: 10%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 10px;
+  left: 25px;
+}
+
+#menuS li a {
+  display: block;
+  background: rgb(59, 51, 51);
+  color: #fff;
+  font: 1em "Trebuchet MS", Arial, sans-serif;
+  line-height: 1em;
+  text-align: center;
+  text-decoration: none;
+  padding: 4px 0;
+  height: 30px;
+  width: 100px;
+}
+
+#nav li {
+  background: grey;
+  color: #fff;
+  border: 1px solid rgb(37, 28, 28);
+  margin-bottom: 1px;
+}
+
+#nav li a {
+  display: block;
+  background: rgb(59, 51, 51);
+  color: #fff;
+  font: 1em "Trebuchet MS", Arial, sans-serif;
+  line-height: 1em;
+  text-align: center;
+  text-decoration: none;
+  padding: 4px 0;
+  height: 30px;
+}
+
+#sitel {
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#TkR img {
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 415px;
+  left: 200px;
+}
+
+#snk4 img {
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 415px;
+  left: 420px;
+}
+
+#Tpn2 img {
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 415px;
+  left: 640px;
+}
+
+#snk3 img {
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 415px;
+  left: 860px;
+}
+
+#Tpn1 img {
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 415px;
+  left: 1080px;
+}
+
+#DM1 img {
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 680px;
+  left: 200px;
+}
+
+#AssC1 img {
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 680px;
+  left: 420px;
+}
+
+#FF1 img {
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 680px;
+  left: 640px;
+}
+
+#AssC2 img {
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 680px;
+  left: 860px;
+}
+
+#FF2 img {
+  transition: 1s;
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 680px;
+  left: 1080px;
+}
+
+#Sakamoto-desu-ga img {
+  transition: 1s;
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 945px;
+  left: 200px;
+}
+
+#Danshi-koukousei-no-nichijou img {
+  transition: 1s;
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 945px;
+  left: 420px;
+}
+
+.search {
+  background-color: transparent;
+  border: 2px solid #2f3041;
+  color: #fff;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+}
+
+.search::placeholder {
+  color: #ffffff;
+}
+
+.search:focus {
+  background-color: #222229;
+  outline: none;
+}
+
+img {
+  transition: 1s;
+  border-radius: 7px;
+}
+
+.buttonmenu {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#s4p2-7ds img {
+  transition: 1s;
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 945px;
+  left: 640px;
+}
+
+#film-7ds img {
+  transition: 1s;
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 945px;
+  left: 860px;
+}
+#mhas5 img {
+  transition: 1s;
+  width: 200px;
+  height: 250px;
+  border: 1px;
+
+  position: absolute;
+  top: 945px;
+  left: 1080px;
+}
